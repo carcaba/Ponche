@@ -40,7 +40,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'customer',
             'short_desc',
             'status',
-            'total_lic_revenue',
+            'total_lic_revenue:currency',
             
             'total_readers_revenue',
             'total_serv_revenue',

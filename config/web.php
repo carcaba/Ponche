@@ -15,7 +15,7 @@ $config = [
             'dateFormat' => 'dd.MM.yyyy',
             'decimalSeparator' => ',',
             'thousandSeparator' => '.',
-            'currencyCode' => 'EUR',
+            'currencyCode' => '€',
        ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
